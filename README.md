@@ -1,11 +1,11 @@
 
-# Decode Morse code
+# My Enumerable
 
-The Decode Morse code accepts Morse code as string and decodes. 
+This My Enumerable is to learn how to use a module inside our class.
 
 ### Cloning the project
 
- git clone https://github.com/sentayhu19/Decode-Morse-code.git <Your-Build-Directory>
+ git clone https://github.com/sentayhu19/My-enumerable.git <Your-Build-Directory>
 ``` 
 - cd Decode-Morse-code
 ```
@@ -35,7 +35,7 @@ Setup
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sentayhu19/Decode-Morse-codeissues/).
+Feel free to check the [issues page](https://github.com/sentayhu19/My-enumerable/issues/).
 
 ## Show your support
 
