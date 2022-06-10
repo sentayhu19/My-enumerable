@@ -2,7 +2,7 @@ module MyEnumerable
   def all?(&block)
     pass = true
     each do |e|
-      pass = false if !block.call(e)
+      pass = false unless block.call(e)
     end
     pass
   end
